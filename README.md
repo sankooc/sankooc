@@ -1,4 +1,8 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sankooc&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/sankooc/sankooc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/sankooc/sankooc)
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sankooc&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
 
 <!--
 **sankooc/sankooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
