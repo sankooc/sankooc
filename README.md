@@ -1,6 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sankooc&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/sankooc/sankooc)
+| <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sankooc&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A"/></a> | <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/sankooc/sankooc)
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankooc&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 ### Node Projects
