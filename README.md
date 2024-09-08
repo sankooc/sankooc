@@ -1,4 +1,4 @@
-| <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sankooc&count_private=true&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,CSS,ipynb&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sankooc&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,CSS,ipynb&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankooc&theme=gruvbox&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
