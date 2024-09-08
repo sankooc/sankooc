@@ -5,22 +5,29 @@
 <br>
 ### Node Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=spring.js&theme=dark&hide_border=true&bg_color=444466)](https://github.com/sankooc/spring.js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=qrzip&theme=dark&hide_border=true&bg_color=444466)](https://github.com/sankooc/qrzip)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=bezier-interpolation&theme=dark&hide_border=true&bg_color=444466)](https://github.com/sankooc/bezier-interpolation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=spring.js&theme=dark&hide_border=true&bg_color=f1e05a)](https://github.com/sankooc/spring.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=qrzip&theme=dark&hide_border=true&bg_color=f1e05a)](https://github.com/sankooc/qrzip)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=bezier-interpolation&theme=dark&hide_border=true&bg_color=f1e05a)](https://github.com/sankooc/bezier-interpolation)
 
 <br>
 
 ### Golang
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=gibero&theme=dark&hide_border=true&bg_color=666644)](https://github.com/sankooc/gibero)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=mmdb&theme=dark&hide_border=true&bg_color=666644)](https://github.com/sankooc/mmdb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=gibero&theme=dark&hide_border=true&bg_color=00ADD8)](https://github.com/sankooc/gibero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=mmdb&theme=dark&hide_border=true&bg_color=00ADD8)](https://github.com/sankooc/mmdb)
 
 <br>
 
 ### Lua
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wow-interface-prist&theme=dark&hide_border=true&bg_color=664466)](https://github.com/sankooc/wow-interface-prist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wow-interface-prist&theme=dark&hide_border=true&bg_color=000080)](https://github.com/sankooc/wow-interface-prist)
+
+<br>
+### Rust
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=vs-shark&theme=dark&hide_border=true&bg_color=dea584)](https://github.com/sankooc/vs-shark)
+
+
 <!--
 **sankooc/sankooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
