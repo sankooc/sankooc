@@ -23,8 +23,7 @@
 ### Rust
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=vs-shark&theme=dracula&hide_border=true&layout=compact)](https://github.com/sankooc/vs-shark)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=symbols.rs&theme=dracula&hide_border=true&layout=compact)](https://github.com/sankooc/symbols.rs)
 <!--
 **sankooc/sankooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
