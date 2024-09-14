@@ -3,7 +3,7 @@
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankooc&theme=gruvbox&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
-### Node Projects
+### NodeJS
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=spring.js&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/sankooc/spring.js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=qrzip&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/sankooc/qrzip)
@@ -16,14 +16,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=mmdb&theme=onedark&hide_border=true&layout=compact)](https://github.com/sankooc/mmdb)
 
 
-### Lua
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wow-interface-prist&theme=radical&hide_border=true&layout=compact)](https://github.com/sankooc/wow-interface-prist)
-
 ### Rust
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=vs-shark&theme=dracula&hide_border=true&layout=compact)](https://github.com/sankooc/vs-shark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=symbols.rs&theme=dracula&hide_border=true&layout=compact)](https://github.com/sankooc/symbols.rs)
+
+
+### Lua
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wow-interface-prist&theme=radical&hide_border=true&layout=compact)](https://github.com/sankooc/wow-interface-prist)
+
 <!--
 **sankooc/sankooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
