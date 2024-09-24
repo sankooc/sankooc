@@ -24,6 +24,7 @@
 
 ### Lua
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wclrank&theme=radical&hide_border=true&layout=compact)](https://github.com/sankooc/wclrank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wow-interface-prist&theme=radical&hide_border=true&layout=compact)](https://github.com/sankooc/wow-interface-prist)
 
 <!--
