@@ -1,5 +1,5 @@
-| <a href="https://github.com/sankooc"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankooc&theme=gruvbox"/></a> | <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,Swift,CSS,ipynb&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/sankooc"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankooc&theme=gruvbox"/></a> | <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,Swift,CSS,ipynb&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> 
+| ------------- | ------------- | 
 
 ### NodeJS
 
@@ -25,6 +25,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wclrank&theme=radical&hide_border=true&layout=compact)](https://github.com/sankooc/wclrank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sankooc&repo=wow-interface-prist&theme=radical&hide_border=true&layout=compact)](https://github.com/sankooc/wow-interface-prist)
+
+
+<img src="https://s05.flagcounter.com/count/JEU5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
 
 <!--
 **sankooc/sankooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
