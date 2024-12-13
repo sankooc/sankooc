@@ -1,7 +1,7 @@
 | <a href="https://github.com/sankooc"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankooc&theme=gruvbox"/></a> | <a href="https://github.com/sankooc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankooc&hide=HTML,Swift,CSS,ipynb&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> 
 | ------------- | ------------- | 
 
-<img src="https://clustrmaps.com/map_v2.png?cl=ebdbb2&w=800&t=n&d=8eyW1Kd5X7ihS25_rNQsfd_1XmA2Ug7B3mXBNVdLdaY&co=458588&ct=ebdbb2" />
+<img src="https://clustrmaps.com/map_v2.png?cl=ebdbb2&w=600&t=tt&d=8eyW1Kd5X7ihS25_rNQsfd_1XmA2Ug7B3mXBNVdLdaY&ct=ebdbb2&co=458588" />
 
 ### NodeJS
 
